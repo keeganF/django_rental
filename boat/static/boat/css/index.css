@@ -1,0 +1,38 @@
+#header {
+    background-color: silver;
+    width: 100%;
+    height: 100px;   
+}
+
+#pagebody {
+    background-color: lightblue;
+
+}
+
+#item1container {
+    width: 225px;
+}
+
+#item2container {
+    width: 225px;
+}
+
+#item3container {
+    width: 225px;
+}
+
+#item4container {
+    width: 225px;
+}
+
+#item5container {
+    width: 225px;
+}
+
+#item6container {
+    width: 225px;
+}
+
+#item7container {
+    width: 225px;
+}
